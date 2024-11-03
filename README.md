@@ -1,6 +1,6 @@
 # revshell-generator
 a simple reverse shell  code generator python script linux
-# use
+# run
 python lostsecrsh.pyc
 
 enter listener ip and port (to generate reverse shell with enetered input)
