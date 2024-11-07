@@ -1,7 +1,7 @@
 # revshell-generator
 A simple  python reverse shell  payload generator script 
-# command
-python sblsrvshell.py
+# just execute the file  ./executable 
+./sblsrvshell
 # set options
 type listener ip and port 
 # payload
