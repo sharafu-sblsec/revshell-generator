@@ -1,11 +1,10 @@
 # revshell-generator
-A simple  python reverse shell  payload generator script 
-# unzip and run using python
-  unzip revshellgen.zip
+A simple  reversepayload generator script 
+# compile using any c compiler and run
 
-  now a folder extracted "dist" included script
+  gcc sblsec.c -o sblsec
 
-  python sblsec.py
+  ./sblsec
 
 # set options
 type listener ip and port 
