@@ -1,9 +1,11 @@
 # revshell-generator
 A simple  python reverse shell  payload generator script 
-# just execute the file  ./executable
-  chmod +x sblsrvshell
+# unzip and run using python
+  unzip revshellgen.zip
 
-  ./sblsrvshell
+  now a folder extracted "dist" included script
+
+  python sblsec.py
 
 # set options
 type listener ip and port 
