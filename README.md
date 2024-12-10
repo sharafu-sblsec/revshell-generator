@@ -1,6 +1,6 @@
 # revshell-generator
-A simple  reversepayload generator script (linux)
-# compile and execute
+A simple  reversepayload generator script 
+# LinuX
 
   gcc sblsec.c -o sblsec
 
